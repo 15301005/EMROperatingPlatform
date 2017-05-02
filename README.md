@@ -1,0 +1,2 @@
+# EMROperatingPlatform
+基于电子病例的临床路径发现、知识图谱和可视化研究平台
